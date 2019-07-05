@@ -3,5 +3,5 @@
 ## Vim
 Install
 ```
-sh -c "$(curl -fsSL https://github.com/gustavokath/gustavokath/master/vim-setup.sh)
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/gustavokath/gustavokath/master/vim-setup.sh)"
 ```
